@@ -51,3 +51,13 @@ Victor: hardware slaaf/ actor
 Main characters zijn Rob en Borry
 
 Boss fights: Moguel: chiwawa, bonny pink: golden retriever, Frank: Bulldog + iced out chain
+
+Level 1 = Honden park
+
+----
+
+## Game mechanics
+
+Lopen, Springen, Slide, Crouch, crouch jump, interaction
+
+parkour, teamwork, action
