@@ -1,12 +1,17 @@
+Gamende-Aap = Tygo 
+dskarsten263 = Daimien
+Alysha-Braafhart = Alysha
+Deaninho1 = Dean
+Fishynugger = Helena
+juulsterr = Julien
+MeesTervoort
+Pascal1808
+rigby123-bit = Victor
+
+
 ----
 
 # Dog With Pants
-
-----
-
-Main characters zijn Rob en Borry
-
-chiwawa boss is miguel
 
 ----
 
@@ -16,17 +21,17 @@ pascal senior dev: doet de map
 
 Dean senior dev: is character and sound development
 
-Mees: Design character
+Mees: Hardware Dev, Design character
 
 Helena senior hardware: controller
 
-Tygo senior hardware: controller
+Tygo senior hardware: controller, github admin
 
-Damien: Goonleader
+Daimien: Goonleader
 
 Julian: idee guy/Dev
 
-Alisia: dev
+Alysha: dev, Design character
 
 Victor: hardware slaaf/ actor
 
