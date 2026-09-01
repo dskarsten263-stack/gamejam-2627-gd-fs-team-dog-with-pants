@@ -129,7 +129,7 @@ De cutscene aan het einde van het level introduceert de boss.
 | **dskarsten263**     | Goonleader                                       |
 | **juulsterr**        | Ideeën / Developer                               |
 | **Alysha-Braafhart** | Developer / Character Design                     |
-| **rigby123-bit**     | Hardware Slaaf / Acteur                          |
+| **rigby123-bit**     | Hardware Developer / Acteur                      |
 
 ---
 
