@@ -1,3 +1,5 @@
+## Mensen
+
 Gamende-Aap = Tygo
 
 dskarsten263 = Daimien
@@ -18,11 +20,11 @@ rigby123-bit = Victor
 
 ----
 
-# Dog With Pants
+# Naam = Dog With Pants
 
 ----
 
-# Taken
+## Taken
 
 pascal senior dev: doet de map
 
@@ -44,7 +46,7 @@ Victor: hardware slaaf/ actor
 
 ----
 
-# Ideeen
+## Ideeen
 
 Main characters zijn Rob en Borry
 
