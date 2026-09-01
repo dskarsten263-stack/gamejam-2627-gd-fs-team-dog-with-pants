@@ -1,13 +1,20 @@
-Gamende-Aap = Tygo 
-dskarsten263 = Daimien
-Alysha-Braafhart = Alysha
-Deaninho1 = Dean
-Fishynugger = Helena
-juulsterr = Julien
-MeesTervoort
-Pascal1808
-rigby123-bit = Victor
+Gamende-Aap = Tygo
 
+dskarsten263 = Daimien
+
+Alysha-Braafhart = Alysha
+
+Deaninho1 = Dean
+
+Fishynugger = Helena
+
+juulsterr = Julien
+
+MeesTervoort
+
+Pascal1808
+
+rigby123-bit = Victor
 
 ----
 
@@ -15,7 +22,7 @@ rigby123-bit = Victor
 
 ----
 
-#taken
+# Taken
 
 pascal senior dev: doet de map
 
@@ -37,7 +44,7 @@ Victor: hardware slaaf/ actor
 
 ----
 
-#ideeen
+# Ideeen
 
 Main characters zijn Rob en Borry
 
