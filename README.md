@@ -42,7 +42,7 @@ Julian: idee guy/Dev
 
 Alysha: dev, Design character
 
-Victor: hardware slaaf/ actor
+Victor: hardware meester/ actor
 
 ----
 
