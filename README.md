@@ -1,6 +1,6 @@
 ----
 
-# Dog With Pants.. the game
+# Dog With Pants
 
 ----
 
