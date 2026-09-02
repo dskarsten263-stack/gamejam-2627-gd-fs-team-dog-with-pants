@@ -1,63 +1,192 @@
-## Mensen
+# 🐶 Dog With Pants
 
-Gamende-Aap = Tygo
+> Een domme, chaotische co-op hondengame
 
-dskarsten263 = Daimien
+---
 
-Alysha-Braafhart = Alysha
+## 🎮 Game
 
-Deaninho1 = Dean
+**Dog With Pants** is een co-op platformgame waarin twee honden, **Rob** en **Borry**, moeten samenwerken om levels uit te spelen, puzzels op te lossen en tegen rare bosses te vechten.
 
-Fishynugger = Helena
+De game draait vooral om **plezier, chaos en samenwerken**.
 
-juulsterr = Julien
+---
 
-MeesTervoort
+## 🐕 Hoofdpersonages
 
-Pascal1808
+* **Rob**
+* **Borry**
 
-rigby123-bit = Victor
+---
 
-----
+## 🗺️ Levels
 
-# Naam = Dog With Pants
+### Level 1 — Hondenpark 🦴
 
-----
+Het eerste level speelt zich af in een groot hondenpark.
 
-## Taken
+* Simpele puzzels
+* Platforms
+* Obstakels
+* Parkour
+* Samenwerken
+* Grappige gebeurtenissen
 
-pascal senior dev: doet de map
+Aan het einde van het level begint een **cutscene**, waarna de boss verschijnt.
 
-Dean senior dev: is character and sound development
+**Boss — Miguel**
 
-Mees: Hardware Dev, Design character
+* Chihuahua
+* Blaft naar de spelers
+* Zijn geblaf maakt geluidsgolven die schade veroorzaken
 
-Helena senior hardware: controller
+---
 
-Tygo senior hardware: controller, github admin
+### Level 2 — Hondenstad 🏙️
 
-Daimien: Goonleader
+Een hele stad die speciaal voor honden is gemaakt.
 
-Julian: idee guy/Dev
+* Straten
+* Auto's
+* Hondenwinkels
+* Verkeer
+* Puzzels
+* Parkour
+* Veel chaos
 
-Alysha: dev, Design character
+Aan het einde van het level begint een **cutscene**, waarna Bonny Pink verschijnt.
 
-Victor: hardware slaaf/ actor
+**Boss — Bonny Pink**
 
-----
+* Roze Golden Retriever
+* Kan achter de spelers aan rennen
+* Kan springen
+* Kan aanvallen met een dash
 
-## Ideeen
+---
 
-Main characters zijn Rob en Borry
+### Level 3 — Curaçao Dog Fight Cage 🥊🌴
 
-Boss fights: Moguel: chiwawa, bonny pink: golden retriever, Frank: Bulldog + iced out chain
+Een gigantische honden-gevechtsarena op Curaçao.
 
-Level 1 = Honden park
+* Palmbomen
+* Strand
+* Grote metalen vechtkooi
+* Honden als publiek
+* Harde muziek
+* Obstakels rondom de arena
+* Parkour
+* Puzzels
 
-----
+Aan het einde van het level begint een **cutscene**, waarna Frank verschijnt.
 
-## Game mechanics
+**Boss — Frank**
 
-Lopen, Springen, Slide, Crouch, crouch jump, interaction
+* Bulldog
+* Iced-out grills
+* Grote ketting om zijn nek
+* Kan aanvallen met zijn ketting
+* Kan bijten
+* Kan naar spelers chargen
+* Kan een speler vastpakken met zijn beet
 
-parkour, teamwork, action
+---
+
+## 🎮 Game-mechanics
+
+* Lopen
+* Springen
+* Sliden
+* Crouchen
+* Crouch jump
+* Interacteren
+* Aanvallen
+* Samenwerken
+* Puzzels oplossen
+* Parkour
+
+---
+
+## 🎬 Levelstructuur
+
+Elk level bestaat uit verschillende onderdelen:
+
+**Parkour → Puzzels → Grappige dingen → Einde van het level → Cutscene → Boss Fight**
+
+De cutscene aan het einde van het level introduceert de boss.
+
+---
+
+# 👥 Team
+
+| Naam                 | Rol                                              |
+| -------------------- | ------------------------------------------------ |
+| **Pascal1808**       | Senior Developer — Map                           |
+| **Deaninho1**        | Senior Developer — Character & Sound Development |
+| **MeesTervoort**     | Hardware Developer — Character Design            |
+| **Fishynugget**      | Senior Hardware — Controller                     |
+| **Gamende-Aap**      | Senior Hardware — Controller & GitHub Admin      |
+| **dskarsten263**     | Goonleader                                       |
+| **juulsterr**        | Ideeën / Developer                               |
+| **Alysha-Braafhart** | Developer / Character Design                     |
+| **rigby123-bit**     | Hardware Developer / Acteur                      |
+
+---
+
+## 🧑‍💻 Personen
+
+* **Gamende-Aap** = Tygo
+* **dskarsten263** = Daimien
+* **Alysha-Braafhart** = Alysha
+* **Deaninho1** = Dean
+* **Fishynugget** = Helena
+* **juulsterr** = Julien
+* **MeesTervoort** = Mees
+* **Pascal1808** = Pascal
+* **rigby123-bit** = Victor
+
+---
+
+## 🛠️ Ontwikkeling
+
+### Hardware
+
+De controllers en andere hardware worden ontwikkeld door het hardwareteam.
+
+### Development
+
+De characters, geluiden, maps en gameplay worden ontwikkeld door het developmentteam.
+
+### Design
+
+De character designs en andere visuele onderdelen worden gemaakt door het designteam.
+
+---
+
+## 🎮 Controller
+
+De game gebruikt een simpele controller met een joystick en vier knoppen.
+
+### 🕹️ Joystick
+
+* ⬆️ Boven
+* ⬇️ Beneden
+* ⬅️ Links
+* ➡️ Rechts
+
+### 🔘 4 knoppen
+
+* **Jump** — Springen
+* **Crouch** — Bukken / Sliden
+* **Interact** — Interactie met objecten
+* **Attack** — Aanvallen
+
+### 🏃 Bewegingsmechanics
+
+**Slide**
+
+Wanneer je tijdens het bewegen naar links of rechts op **Crouch** drukt, gaat je character sliden.
+
+**Crouch Jump**
+
+Wanneer je **Crouch ingedrukt houdt** en daarna op **Jump** drukt, doet je character een speciale sprong. Hiermee kun je ongeveer **1 meter hoger** springen dan met een normale sprong.
