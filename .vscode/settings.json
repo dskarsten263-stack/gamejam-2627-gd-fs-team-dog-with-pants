@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "gamejam-2627-gd-fs-team-dog-with-pants.slnx"
+    "dotnet.defaultSolution": "dog with pants.slnx"
 }
