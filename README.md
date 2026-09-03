@@ -82,13 +82,11 @@ Aan het einde van het level begint een **cutscene**, waarna Frank verschijnt.
 
 **Boss — Frank**
 
-* Bulldog
+* Pitbull
 * Iced-out grills
 * Grote ketting om zijn nek
 * Kan aanvallen met zijn ketting
 * Kan bijten
-* Kan naar spelers chargen
-* Kan een speler vastpakken met zijn beet
 
 ---
 
@@ -98,11 +96,8 @@ Aan het einde van het level begint een **cutscene**, waarna Frank verschijnt.
 * Springen
 * Sliden
 * Crouchen
-* Crouch jump
-* Interacteren
 * Aanvallen
 * Samenwerken
-* Puzzels oplossen
 * Parkour
 
 ---
@@ -140,7 +135,7 @@ De cutscene aan het einde van het level introduceert de boss.
 * **Alysha-Braafhart** = Alysha
 * **Deaninho1** = Dean
 * **Fishynugget** = Helena
-* **juulsterr** = Julien
+* **juulsterr** = Julian
 * **MeesTervoort** = Mees
 * **Pascal1808** = Pascal
 * **rigby123-bit** = Victor
@@ -186,7 +181,3 @@ De game gebruikt een simpele controller met een joystick en vier knoppen.
 **Slide**
 
 Wanneer je tijdens het bewegen naar links of rechts op **Crouch** drukt, gaat je character sliden.
-
-**Crouch Jump**
-
-Wanneer je **Crouch ingedrukt houdt** en daarna op **Jump** drukt, doet je character een speciale sprong. Hiermee kun je ongeveer **1 meter hoger** springen dan met een normale sprong.
