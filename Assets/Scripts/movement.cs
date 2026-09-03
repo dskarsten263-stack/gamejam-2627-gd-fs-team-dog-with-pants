@@ -26,10 +26,7 @@ public class movement : MonoBehaviour
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y * 0.5f);
         }
-        if(IsGrounded = true)
-        {
-            Console.WriteLine("Grounded True");
-        }
+        
 
         Flip();
     }
