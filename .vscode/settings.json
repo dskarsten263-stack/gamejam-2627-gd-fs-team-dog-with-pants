@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "dog with pants.slnx"
+    "dotnet.defaultSolution": "dog with pants ).slnx"
 }
